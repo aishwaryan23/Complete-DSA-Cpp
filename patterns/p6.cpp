@@ -28,4 +28,10 @@ int main()
     }
     return 0;
 }
+
+// A 
+// B A
+// C B A
+// D C B A
+
     
